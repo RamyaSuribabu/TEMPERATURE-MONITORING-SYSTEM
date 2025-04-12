@@ -16,4 +16,4 @@ With Tinkercad, you can design and simulate this system virtually, testing the b
 
 
 *OUTPUT*
-
+![Image](https://github.com/user-attachments/assets/01e86a69-6007-4f52-983e-24194f3e99f3)
